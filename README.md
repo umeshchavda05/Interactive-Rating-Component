@@ -13,7 +13,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Author](#author)
 
 
-## Overview
+
 
 ### The challenge
 
